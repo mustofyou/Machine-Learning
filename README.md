@@ -1,4 +1,4 @@
-
+<h2>Machine Learning</h2>
 <ul>
 <li><h3>Dogecoin Price Prediction</h3>
 <p>
@@ -24,5 +24,11 @@ böylelikle bu kütüphaneler,Zaman Seri analizini hem matematiksel hem de kodla
 Veri Biliminde Türkçe terim önerisi: Data frame - Ver Zici. 
 Esinlendiğim yer: Meşhur Türk Astronomu Uluğ Bey'in yıldız kataloğunun ismi. 
 </p>
+</li>
+<ul>
+
+<h2>Classification</h2>
+</li>
+<li><h3>Classification with Unbalanced Data <h/h3>
 </li>
  <ul>
