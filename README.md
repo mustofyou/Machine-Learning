@@ -32,3 +32,9 @@ Esinlendiğim yer: Meşhur Türk Astronomu Uluğ Bey'in yıldız kataloğunun is
 <li><h3>Classification with Unbalanced Data <h/h3>
 </li>
  <ul>
+
+<h2>Natural Language Processing</h2>
+</li>
+<li><h3>NLP Sentiment Analysis <h/h3>
+</li>
+ <ul>
