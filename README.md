@@ -37,4 +37,7 @@ Esinlendiğim yer: Meşhur Türk Astronomu Uluğ Bey'in yıldız kataloğunun is
 </li>
 <li><h3>NLP Sentiment Analysis <h/h3>
 </li>
+</li>
+<li><h3>Twitter Sentiment Analysis <h/h3>
+</li>
  <ul>
