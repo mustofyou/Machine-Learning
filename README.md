@@ -1,3 +1,5 @@
+<ul><li>
+
 <h2>Machine Learning</h2>
 <ul>
 <li><h3>Dogecoin Price Prediction</h3>
@@ -27,11 +29,17 @@ Esinlendiğim yer: Meşhur Türk Astronomu Uluğ Bey'in yıldız kataloğunun is
 </li>
 <ul>
 
+</li>
+<li>
+
 <h2>Classification</h2>
 </li>
 <li><h3>Classification with Unbalanced Data <h/h3>
 </li>
  <ul>
+
+</li>
+<li>
 
 <h2>Natural Language Processing</h2>
 </li>
@@ -41,3 +49,7 @@ Esinlendiğim yer: Meşhur Türk Astronomu Uluğ Bey'in yıldız kataloğunun is
 <li><h3>Twitter Sentiment Analysis <h/h3>
 </li>
  <ul>
+
+</li>
+
+</ul>
