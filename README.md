@@ -4,7 +4,7 @@
 In this project, I tried to predict Dogecoin price for the next 10 weeks after the last close value on **24th August 2021**.
 
 ### 💼 Salary Prediction
-*Work in progress / Not documented yet*
+*Details will be added soon*
 
 ### 📈 Demand Inventory Optimization (Churn Analysis)
 In this project, I performed **Time Series Analysis** using 3 approaches:
@@ -23,15 +23,27 @@ Bu projede **Zaman Serisi Analizi** ile çalıştım. Kullandığım 3 yaklaşı
 Bu kütüphaneler, zaman serisi analizini hem matematiksel hem de kodlama yönleriyle kavramama olanak sağladı.
 
 🧪 **Veri Biliminde Türkçe Terim Önerisi**:  
-- `DataFrame` → **Ver Zici**  
+- `DataFrame` → **Veri Zîci**  
   > Esin kaynağı: Meşhur Türk astronomu **Uluğ Bey**’in yıldız kataloğunun ismi.
 
 ---
 
 # 🧠 Classification
 
-### ⚖️ Classification with Unbalanced Data
-*Details will be added soon*
+### ⚖️ Classification with Unbalanced Data  
+In this project, I tackled the challenge of **imbalanced datasets**—where one class significantly outnumbers the others.  
+
+To address this, I used techniques such as:  
+- **Resampling methods** (e.g. SMOTE, undersampling)  
+- **Evaluation metrics beyond accuracy** (e.g. F1-score, Precision-Recall)  
+- **Class-weighted models** to reduce bias towards the majority class  
+
+This helped me understand real-world classification problems where fairness, detection of rare cases (like fraud or disease), and correct metric selection are essential.
+
+**Türkçe Açıklama:**  
+Bu projede, **sınıflar arası dengesizlik** (örneğin sahtekârlık tespiti gibi az rastlanan olaylar) sorununu ele aldım.  
+SMOTE gibi yeniden örnekleme yöntemleri, F1-score gibi daha anlamlı metrikler ve ağırlıklı modeller ile doğru sınıflandırma stratejilerini uyguladım.
+
 
 ---
 
@@ -42,3 +54,11 @@ Bu kütüphaneler, zaman serisi analizini hem matematiksel hem de kodlama yönle
 
 ### 🐦 Twitter Sentiment Analysis
 *Coming soon*
+
+---
+
+# 🎵 Clustering
+
+### 🎼 Clustering Music Genres
+In this project, I applied clustering algorithms (such as K-Means, DBSCAN) to group music genres based on features such as tempo, energy, valence, and more.
+
