@@ -62,3 +62,12 @@ SMOTE gibi yeniden örnekleme yöntemleri, F1-score gibi daha anlamlı metrikler
 ### 🎼 Clustering Music Genres
 In this project, I applied clustering algorithms (such as K-Means, DBSCAN) to group music genres based on features such as tempo, energy, valence, and more.
 
+### 💳 Clustering Credit Card Customers  
+In this project, I used **unsupervised learning techniques** to segment credit card customers based on their transaction patterns and behaviors.  
+
+Key steps included:  
+- Feature engineering (e.g. annual spend, payment ratio, balance frequency)  
+- Dimensionality reduction with PCA  
+- Clustering with **K-Means** and **Hierarchical Clustering**
+
+The goal was to uncover hidden patterns in customer data and enable better targeting for marketing or credit risk strategies.
