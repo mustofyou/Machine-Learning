@@ -71,3 +71,8 @@ Key steps included:
 - Clustering with **K-Means** and **Hierarchical Clustering**
 
 The goal was to uncover hidden patterns in customer data and enable better targeting for marketing or credit risk strategies.
+
+# Deep Learning
+
+### Next Word Detection
+*Coming soon*
